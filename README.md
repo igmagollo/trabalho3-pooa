@@ -5,6 +5,8 @@ Autores:
 - Igor Raphael Magollo 743550
 - Gabriel Olivato 743537
 
+![Diagrama](https://raw.githubusercontent.com/igmagollo/trabalho3-pooa/main/diagrama.png)
+
 # Descrição da solução
 
 Partindo do mais abstrato, existe uma classe ```System``` responsável por implementar o funcionamento do sistema, essa classe tem a responsabilidade de apenas orquestrar as responsabilidades das outras partes sem ter conhecimento de como tudo está funcionando.
